@@ -1,0 +1,20 @@
+{
+  "name": "node_membership",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Mu",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bcrypt-nodejs": "0.0.3",
+    "express-async-wrap": "^1.0.0",
+    "jsonwebtoken": "^8.0.1"
+  }
+}
